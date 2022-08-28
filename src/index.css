@@ -1,0 +1,89 @@
+.color-body {
+  background-color: #f8f8f8;
+  height: 100vh;
+}
+.font {
+  font-family: 'Silkscreen', cursive;
+}
+.title {
+  color: #1971c2;
+  font-family: 'Silkscreen', cursive;
+
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 6.4rem;
+}
+.underline {
+  height: 0.1rem;
+  width: 20rem;
+  border-radius: 10px;
+  border: 2px solid #228be6;
+}
+.btn {
+  color: black;
+  font-family: 'Silkscreen', cursive;
+  font-size: 1.8rem;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 2.4rem;
+}
+.btn:hover {
+  color: black;
+  font-family: 'Silkscreen', cursive;
+  font-size: 1.8rem;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 2.4rem;
+  border-radius: 1.1rem;
+  border: none;
+  background-color: #228be6;
+}
+.img-item {
+  height: 18rem;
+  width: 25.2rem;
+  border-radius: 0.9rem;
+}
+.item-description {
+  color: #8c8c8c;
+  font-family: 'Silkscreen', cursive;
+  font-size: 1.2rem;
+
+  font-size: 1.6rem;
+  letter-spacing: 0;
+  line-height: 2rem;
+}
+.item-title {
+  color: #555555;
+  font-family: 'Silkscreen', cursive;
+
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 2rem;
+}
+.card-color {
+  background-color: #f8f8f8;
+}
+.item-price {
+  color: #228be6;
+  font-family: 'Silkscreen', cursive;
+  font-size: 1.6rem;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 2rem;
+}
+.btn-search {
+  color: #228be6;
+  border-radius: 3px solid #228be6;
+  border-radius: 0.8rem;
+  background-color: white;
+}
+.btn-search:hover {
+  color: white;
+  border-radius: 3px solid white;
+  background-color: #228be6;
+  border-radius: 0.8rem;
+}
+.brand-color {
+  color: #339af0;
+}
